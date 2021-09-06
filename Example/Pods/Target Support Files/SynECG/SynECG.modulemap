@@ -1,0 +1,6 @@
+framework module SynECG {
+  umbrella header "SynECG-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "SynECG",
+  "version": "0.1.0",
+  "summary": "A short description of SynECG.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aaron/SynECG",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aaron": "liangxiaobin@51etr.com"
+  },
+  "source": {
+    "git": "https://github.com/aaron/SynECG.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SynECG/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "SSZipArchive": [
+
+    ],
+    "iOSDFULibrary": [
+
+    ],
+    "FMDB": [
+
+    ]
+  }
+}
