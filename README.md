@@ -22,7 +22,7 @@ pod 'SynECG'
 
 ## Author
 
-aaron
+This is an old project used to learn the publishing process.
 
 ## License
 
