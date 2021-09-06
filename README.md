@@ -22,7 +22,7 @@ pod 'SynECG'
 
 ## Author
 
-aaron, liangxiaobin@51etr.com
+aaron
 
 ## License
 
